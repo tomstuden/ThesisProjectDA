@@ -1,2 +1,4 @@
 # ThesisProjectDA
-Repository containing the code for my thesis project, an end to end mmwave radar processing and classification pipeline
+Repository containing the code for my thesis project, an investigation into noise in mmwave radar systems, and analysing how different levels of noise, features and training regimes affect the accuracy of 5 unique classes of model, knn, svm, linear regression, random forest and a cnn
+
+AI (ChatGpt5) was used occasionally as a programming assistant, providing basic pseudocode as a starting point for both the conversion to point clouds, and feature extraction sections of the pipeline, it was additionally used to aid with debugging across different aspects of the pipeline. All suggestions returned were treated as drafts, requiring fully commented outputs in addition to any code provided, these were then carefully looked at to validate them, ensuring the logic made sense and would provide the function required. 
